@@ -1,0 +1,23 @@
+.botao {
+    background-color:blue;
+    padding: 10px;
+    border-color: blue;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.botao-decrementar{
+    background-color:red;
+    padding: 10px;
+    border-color: red;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.botao-zerar {
+    background-color:rebeccapurple;
+    padding: 10px;
+    border-color: rebeccapurple;
+    color: #ffffff;
+    font-weight: bold;
+}
